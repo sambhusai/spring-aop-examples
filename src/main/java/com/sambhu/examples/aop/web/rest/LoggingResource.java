@@ -1,9 +1,5 @@
 package com.sambhu.examples.aop.web.rest;
 
-/**
- * Created by work on 2/28/16.
- */
-
 import ch.qos.logback.classic.Level;
 import ch.qos.logback.classic.LoggerContext;
 import com.sambhu.examples.aop.web.dto.LoggerDto;
